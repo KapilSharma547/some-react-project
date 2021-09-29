@@ -41,7 +41,7 @@ const App = () => {
         <Route path='/webpage' component={Webpage} />
          <Route component={Error} />
       </Switch> */}
-      <Form />
+      <ClockUPdate />
 
       {/*<About />    
         <Contact />*/}
